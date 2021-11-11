@@ -1,0 +1,15 @@
+current directory: /home/cordelia/dev/book_admin/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.9.1/ext/bootsnap
+/home/cordelia/.rbenv/versions/2.7.4/bin/ruby -I /home/cordelia/.rbenv/versions/2.7.4/lib/ruby/2.7.0 -r ./siteconf20211111-33750-ag74yo.rb extconf.rb
+creating Makefile
+
+current directory: /home/cordelia/dev/book_admin/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.9.1/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /home/cordelia/dev/book_admin/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.9.1/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
+
+current directory: /home/cordelia/dev/book_admin/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.9.1/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.so ./.gem.20211111-33750-jssbn7/bootsnap

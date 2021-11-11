@@ -1,0 +1,17 @@
+current directory: /home/cordelia/dev/book_admin/vendor/bundle/ruby/2.7.0/gems/racc-1.6.0/ext/racc/cparse
+/home/cordelia/.rbenv/versions/2.7.4/bin/ruby -I /home/cordelia/.rbenv/versions/2.7.4/lib/ruby/2.7.0 -r ./siteconf20211111-32428-1llw5w0.rb extconf.rb
+checking for rb_block_call()... yes
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /home/cordelia/dev/book_admin/vendor/bundle/ruby/2.7.0/gems/racc-1.6.0/ext/racc/cparse
+make "DESTDIR=" clean
+
+current directory: /home/cordelia/dev/book_admin/vendor/bundle/ruby/2.7.0/gems/racc-1.6.0/ext/racc/cparse
+make "DESTDIR="
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/cordelia/dev/book_admin/vendor/bundle/ruby/2.7.0/gems/racc-1.6.0/ext/racc/cparse
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20211111-32428-1h44h9y/racc
